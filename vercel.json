@@ -1,7 +1,7 @@
 {
   "functions": {
     "src/backend/public/index.php": {
-      "runtime": "vercel-php@1.0.0"
+      "runtime": "now-php@1.0.0"
     }
   },
   "routes": [
